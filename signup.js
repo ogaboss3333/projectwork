@@ -81,7 +81,7 @@ hi.style.marginLeft = "-36px"
 hi.style.backgroundColor = "white"
 
 but.style.height = "35px"
-but.style.width = "61%"
+but.style.width = "60%"
 but.style.borderRadius = "5px"
 but.style.border = "1px solid black"
 but.style.color = "white"
