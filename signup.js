@@ -51,7 +51,7 @@ if(!pass.value.trim() || pass.value.length < 8){
 
 if(isValid){
     alert("form fill successful")
-    window.location.href = "proj.html"
+    window.location.href = "login.html"
 }
 })
 
