@@ -1,6 +1,12 @@
+body {
+    background-image: url(about_right_img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .dive {
     margin-left: 60%;
-    margin-top: 10%;
+    margin-top: 12%;
 }
 
 h1 {
@@ -11,7 +17,7 @@ h1 {
 
 .divv {
     margin-left: 60%;
-    margin-top: 10%;
+    margin-top: 12%;
 }
 
 .fa-google {
@@ -45,4 +51,26 @@ span {
 
 a {
     text-decoration: none;
+}
+
+@media screen and (max-width: 700px) {
+    .fa-google {
+        padding-left: 25px;
+    }
+
+    .fa-facebook{
+        padding-right: 25px;
+        margin-left: -2px;
+    }
+
+    #create {
+        font-size: 1rem;
+    }
+
+    #log {
+        font-size: 1rem;
+    }
+    p {
+        font-size: 0.7rem;
+    }
 }

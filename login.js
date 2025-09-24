@@ -58,7 +58,7 @@ wor.style.borderRadius = "5px"
 wor.style.border = "1px solid black"
 
 showw.style.border = "none"
-showw.style.marginLeft = "-7%"
+showw.style.marginLeft = "-36px"
 showw.style.backgroundColor = "white"
 
 log.style.height = "35px"

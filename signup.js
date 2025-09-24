@@ -77,7 +77,7 @@ pass.style.borderRadius = "5px"
 pass.style.border = "1px solid black"
 
 hi.style.border = "none"
-hi.style.marginLeft = "-7%"
+hi.style.marginLeft = "-36px"
 hi.style.backgroundColor = "white"
 
 but.style.height = "35px"
